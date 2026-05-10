@@ -264,7 +264,7 @@ router.on('#/probeklausur', () => {
     <section class="page">
       <header class="page-header">
         <p class="page-eyebrow">Mündliche Probeklausur</p>
-        <h1>Üb so, wie du am 10. Mai geprüft wirst</h1>
+        <h1>Trainier so, wie du in der Prüfung geprüft wirst</h1>
         <p class="lead">Zwei Modi. Beide nutzen Gemini als KI-Prüfer und die Spracherkennung deines Browsers.</p>
       </header>
 
